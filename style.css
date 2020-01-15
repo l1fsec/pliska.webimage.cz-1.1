@@ -1,0 +1,10 @@
+body {
+ 	background-color: #000000;
+ }
+h1{
+	font-size: 100px;
+	text-align: center;
+	color:  #660000;
+	text-shadow: 3px 10px 9px #33cc33;
+	font-family: monospace;
+}	
